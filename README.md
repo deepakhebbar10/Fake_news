@@ -20,7 +20,8 @@ Dense (512) → Batch Norm → Dense (256) → Dropout (0.3) → Dense (128) →
 
  5. Training & Evaluation
 Performance Metrics: Accuracy, Precision, Recall, F1-Score, Confusion Matrix.
-![image](https://github.com/user-attachments/assets/7cbbe3e0-d85d-4317-acc0-452b4fa39007)
+![image](https://github.com/user-attachments/assets/bdd88f5f-ee36-45f7-b485-e05994b8f6a1)
+
 
 
 
